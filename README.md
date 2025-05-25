@@ -1,5 +1,5 @@
 # Ex-05-Creating-a-Warehouse-Application-in-SalesForce.com
-### NAME: MANOJ KUMAR s
+### NAME: MANOJ KUMAR S
 ### REG NO: 212223240082
 
 ## AIM:
