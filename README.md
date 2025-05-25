@@ -1,6 +1,6 @@
 # Ex-05-Creating-a-Warehouse-Application-in-SalesForce.com
-### NAME: Vikamuhan reddy
-### REG NO: 212223240181
+### NAME: MANOJ KUMAR s
+### REG NO: 212223240082
 
 ## AIM:
 To create a warehouse application in salesforce.com
